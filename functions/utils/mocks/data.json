@@ -1,0 +1,28 @@
+{
+  "responseId": "21099039-1fc3-4e43-9534-c2f64a8f43a6",
+  "queryResult": {
+    "queryText": "welcome",
+    "action": "welcome",
+    "parameters": {},
+    "allRequiredParamsPresent": true,
+    "fulfillmentMessages": [
+      {
+        "text": {
+          "text": [
+            ""
+          ]
+        }
+      }
+    ],
+    "intent": {
+      "name": "projects/kairos-kai/agent/intents/6c7ba1d1-7ca2-4acb-9e66-b1d1db92f919",
+      "displayName": "welcome"
+    },
+    "intentDetectionConfidence": 1,
+    "languageCode": "es"
+  },
+  "originalDetectIntentRequest": {
+    "payload": {}
+  },
+  "session": "projects/kairos-kai/agent/sessions/00506580-681d-9125-b35e-c9295f9b5f4c"
+}
